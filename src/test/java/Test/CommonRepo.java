@@ -7,6 +7,7 @@ public class CommonRepo {
 		
 		
 		System.out.println("Hasan Desktop Runner Machine");
+		System.out.println("Hasan Desktop Runner Machine");
 
 	}
 
